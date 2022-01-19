@@ -1,5 +1,5 @@
 # GET_NEXT_LINE
-## *Project in C language part of 42 course (https://www.42sp.org.br/)*
+*Project in C language part of 42 course (https://www.42sp.org.br/)*
 
 ###### The purpose of this project is to create a function to read the next line from file descriptor.
 > The big challenge is memory allocation, when we're working with buffers and static variables it's very easy to forget to free and "lost" memories between interations, so you need to track and guarantee that all memories have been freed and allocated in right order.
